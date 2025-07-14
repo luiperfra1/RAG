@@ -1,0 +1,1 @@
+Los embeddings permiten representar texto en espacios vectoriales.

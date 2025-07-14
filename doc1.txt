@@ -1,0 +1,1 @@
+El modelo RAG combina recuperación y generación usando BERT y GPT.
